@@ -8,7 +8,7 @@
 <p align="center"
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/daniel-szczepaniak-16456a26a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf)](https://yourportfolio.com/)</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf)](https://daniel-szczepaniak.vercel.app/)</p>
 
 
 
@@ -20,7 +20,8 @@
 ## <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e4769y5k733sshdl6gqi48k4c4lmnm790qjaryrbu1w&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="unconcious" align="center" width="50"/> Technologies & Tools <img src="https://thumbs.gfycat.com/ScaryEminentHarborporpoise.webp" alt="cat" align="right" height=50/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## <img src="https://media2.giphy.com/media/iUPwnxCtpKk03Pj0pJ/giphy.gif?cid=ecf05e47h36ygn41ygs2djo39mleopsz50o2ppr84zfl4ll8&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="envelope" width="60"/> Let's Connect 
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/daniel-szczepaniak-16456a26a/). You can also explore more about me on my [portfolio website](https://yourportfolio.com/).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/daniel-szczepaniak-dev). You can also explore more about me on my [portfolio website](https://daniel-szczepaniak.vercel.app/).
