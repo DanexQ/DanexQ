@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media3.giphy.com/media/aDM9P5BsV6XfhahviI/200.gif" alt="welcome" width="700"/></h1> 
+<h1 align="center"><center>WELCOME TO MY PROFILE</center></h1> 
 
 </div>
 
@@ -14,10 +14,11 @@
 
 ## <img src="https://media2.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif?cid=ecf05e479ek10kpg8ymy86n4kdj4ohy1va695d7i5kr6g7b2&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="unconcious" align="center" width="30"/> Featured Projects <img src="https://media2.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif?cid=ecf05e479ek10kpg8ymy86n4kdj4ohy1va695d7i5kr6g7b2&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="unconcious" align="center" width="30"/>
 - [Prosta Matura](https://github.com/DanexQ/prosta-matura) - Let me introduce you to my recent project, Prosta Matura. This initiative is designed to assist Polish students who are preparing for their advanced math matura examination. During my time as a high school graduate this year, I faced a challenge – there wasn't a comprehensive platform consolidating all the exam tasks in one location. Driven by this need, I took it upon myself to create Prosta Matura.
+- [Sudoku](https://github.com/DanexQ/sudoku) - Sudoku game that is built using [Dosuku Api](https://sudoku-api.vercel.app/). In this project I have learnt how to use Axios and state management - Redux. Also used there SASS preprocessor.
 - [Would You Rather](https://github.com/DanexQ/would-you-rather) - I made this app for my friends' group to keep us entertained during school breaks. I take pride in it because it brought us much laughter and enjoyment while playing the simple "Would You Rather" game. The app also lets you create your own cards if you're interested.
 - [INF.03 Exam Repetition](https://github.com/DanexQ/repetition-for-exam) - Website built with a support of [Lubuscy Zawodowcy](https://lubuskie.pl/cms/353/aktualnosci_zawodowcy) scholarship. This is a quick information summary of one of the polish technician exam. It was very useful for me and my friends that were exercising before the exam. Pretty simple app without extended interactivity.
 - [Real chat app](https://github.com/DanexQ/real-chat-app) - Simple example of real chat app - my first bigger project. I encountered and solved various errors that were new to me.  I plan to come back to this app someday with my updated knowledge and continue working on it.
-- [Sudoku](https://github.com/DanexQ/sudoku) - Sudoku game that is built using [Dosuku Api](https://sudoku-api.vercel.app/). In this project I have learnt how to use Axios and state management - Redux. Also used there SASS preprocessor.
+
 
 ## <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e4769y5k733sshdl6gqi48k4c4lmnm790qjaryrbu1w&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="unconcious" align="center" width="50"/> Technologies & Tools <img src="https://thumbs.gfycat.com/ScaryEminentHarborporpoise.webp" alt="cat" align="right" height=50/>
 
